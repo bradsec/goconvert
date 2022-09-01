@@ -1,5 +1,5 @@
 # Go Convert
-### Learning go basics testing and benchmarks
+### Learning go fundamentals - Go tests and benchmarks
 
 `main.go` includes various small functions to convert between decimal, hexadecimal and binary.
 
